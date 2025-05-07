@@ -1,1 +1,1 @@
-# resResume-parser-and-classifier-stramlit
+# Resume-parser-and-classifier-streamlit
