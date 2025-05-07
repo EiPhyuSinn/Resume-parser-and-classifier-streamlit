@@ -1,4 +1,4 @@
-# pip install streamlit python-docx PyPDF2 joblib
+
 
 import streamlit as st
 import joblib
